@@ -79,6 +79,9 @@ A case study involving the implementation of decision tree.
 **ii. Key Predictive Factors:**
 - The top 5 features predicting above-average profits, in descending order of importance, are highlighted.
 
+  <img width="541" alt="image" src="https://github.com/user-attachments/assets/290e9b92-4d91-43c1-9950-c73abc764932">
+
+
 **iii. Strategic Decision Rules:**
 - Regions with an average number of total visits provided by the HHA during a non-LUPA episode less than 16.75 may be profitable.
 - Regions with values <= 8 have a higher chance of being profitable.
